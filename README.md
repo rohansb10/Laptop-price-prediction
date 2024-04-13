@@ -1,5 +1,9 @@
 # Laptop Price Prediction
 
+## Project Code Link
+[Project Code on Google Colab](https://colab.research.google.com/drive/1fB8Cmy7kO5J6FK_Y-vKtERy9fOEtfCQF?usp=sharing)
+
+
 ## Project Overview
 This project aims to predict laptop prices based on various features using machine learning and deep learning models. It involves extensive feature engineering, model evaluation, and outlier removal to improve prediction accuracy.
 
